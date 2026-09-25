@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/media/fox.gif" width="75%" height="75%">
+<img src="/media/fox.gif" width="50%" height="50%">
 
 # Hey, I'm Cloudy!
 
@@ -8,17 +8,15 @@
 
 </div>
 
-## 🚀 About Me
+## About me
 
-A passionate game developer from Russia with 7 years of experience, I started my journey at 11, crafting games from scratch with Pocket Code and now diving deep into the world of Unreal Engine 5. I'm on a mission to bring my creative visions to life at CDPROJEKTRED.
+Hey there! I'm Cloudy, an 18 years old developer creating some fascinating stuff on Unreal Engine 5. I started my journey as game developer when I was only ten by creating a simple 2D game with Pocket Code. That was a really interesting experience that, I think so, lead me to the serious game development. Years later, I tried to make a warfare game on Unity. I was twelve or maybe thirteen years old at that moment. Fighting with C# was annoying, but the I finished the prototype. Some kind of. Later, at the age of fifteen, I found out about Unreal Engine. I was interested in it because of its Blueprint coding system. At that age I don't really liked to code. But I fall into coding now! Anyways, that was the time when the 5.0 version had just been released. I went from 5.0 straight to the 5.8, you know, creating some stuff and learning about the engine step-by-step.
 
-- 🏢 Student.
-- 🌱 Currently learning **Exploring advanced techniques in Unreal Engine, diving into C++ and honing my skills in 3D character modeling.**
-- 💬 Ask me about **Game development workflows, character rigging, or integrating art with gameplay mechanics.**
-
-## 🛠️ Tech Stack
+Now, I'm being a student. I'd like to get the fundamental knowledge about gamedev, the IT in common. I'm still learning about the Engine and other sides of the development. 
 
 <div align="center">
+
+# Software I use in common
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-333?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-333?style=for-the-badge&logo=blender&logoColor=white)
@@ -28,8 +26,10 @@ A passionate game developer from Russia with 7 years of experience, I started my
 
 </div>
 
-## 📊 GitHub Stats
+
 <div align="center">
+
+# GitHub Stats
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1&name=Cloudy">
 
@@ -43,18 +43,16 @@ A passionate game developer from Russia with 7 years of experience, I started my
 
 </div>
 
-## 🔗 Connect with me
-
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IamLittlecloudyfox) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iamlittlecloudyfox)
+# Connect with me
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IamLittlecloudyfox) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iamlittlecloudyfox) [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/Littlecloudyfox)
 
 </div>
 
-## ✍️ Latest Blog Posts
-
 <div align="center">
   
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/Littlecloudyfox)
+# Hope you have a nice day, cutie! 
 
 </div>
