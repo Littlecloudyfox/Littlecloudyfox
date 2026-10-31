@@ -35,15 +35,15 @@ Today, I'm a student focused on building a strong foundation in game development
 
 ## GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1&name=Cloudy">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Littlecloudyfox&theme=holi&animation=draw&duration=1&name=Cloudy">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Littlecloudyfox&theme=holi&animation=draw&duration=1">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Littlecloudyfox&theme=holi&animation=draw&duration=1">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Littlecloudyfox&theme=holi&animation=draw&duration=1">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1&utcOffset=3">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Littlecloudyfox&theme=holi&animation=draw&duration=1&utcOffset=3">
 
 </div>
 
